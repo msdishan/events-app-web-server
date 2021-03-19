@@ -1,3 +1,7 @@
+table, th, td {
+  border: 1px solid black;
+}
+
 /* cell padding */
 th, td { padding: 5px; }
 
